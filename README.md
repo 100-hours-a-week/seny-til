@@ -2,7 +2,7 @@
 
 ### 🍓 [5월 3주차, 7주차] : 커뮤니티 프로젝트 react
 
-- **24.05.15** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-16.md) ${\textsf{\color{yellowgreen}기타}}$ ) 인증인가 구현 (secret key, 세션 쿠키, credentials: 'include')
+- **24.05.16** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-16.md) ${\textsf{\color{yellowgreen}기타}}$ ) 인증인가 구현 (secret key, 세션 쿠키, credentials: 'include')
 - **24.05.15** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-15.md) ${\textsf{\color{yellowgreen}기타}}$ ) 이력서, 포트폴리오 작성
 - **24.05.14** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-14.md) ${\textsf{\color{orange}알고리즘}}$ ) 알고리즘 BFS 문제풀이
 - **24.05.13** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-13.md) ${\textsf{\color{orange}알고리즘}}$ ) 알고리즘 DP 개념 정리, 커뮤니티 프로젝트 리팩토링 후 문제상황 수정 반영
