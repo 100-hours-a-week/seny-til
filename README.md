@@ -2,6 +2,7 @@
 
 ### 🍓 [5월 3주차, 7주차] : 커뮤니티 프로젝트 react
 
+- **24.05.17** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-16.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 인증인가 구현 (로그인 유저의 프로필 아이콘 헤더에 삽입, 본인이 작성한 댓글, 게시글에만 접근가능하도록 + 수정/삭제버튼 보이도록 `.active`클래스로 조절)
 - **24.05.16** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-16.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 인증인가 구현 (secret key, 세션 쿠키, credentials: 'include')
 - **24.05.15** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-15.md) ${\textsf{\color{yellowgreen}기타}}$ ) 이력서, 포트폴리오 작성
 - **24.05.14** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-14.md) ${\textsf{\color{orange}알고리즘}}$ ) 알고리즘 BFS 문제풀이
