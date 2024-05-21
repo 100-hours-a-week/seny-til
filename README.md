@@ -1,4 +1,4 @@
-## ✏️ Today I Learned ( seny-til in KCS)
+## ✏️ Today I Learned ( seny-til in KCS )
 
 ### 🍓 [5월 3주차, 7주차] : Java
 
