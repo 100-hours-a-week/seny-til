@@ -2,12 +2,20 @@
 
 ### 🍓 [5월 3주차, 7주차] : Java
 
+- **24.05.18** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-18.md) ${\textsf{\color{orange}알고리즘}}$ ) 자바 과제 6주차 진행, 알고리즘 DP 문제풀이, 해싱 개념정리
+
+---
+
+### 🍓 [5월 3주차, 7주차] : Java
+
 - **24.05.18** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-18.md) ${\textsf{\color{#2e8b57}개념}}$ ) CORS, wireshark실습, HTTP 보안헤더 정리, 3주차 과제 완료 + 회고
 - **24.05.17** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-16.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 인증인가 구현 (로그인 유저의 프로필 아이콘 헤더에 삽입, 본인이 작성한 댓글, 게시글에만 접근가능하도록 + 수정/삭제버튼 보이도록 `.active`클래스로 조절 - 과제 3주차 3번 완료)
 - **24.05.16** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-16.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 인증인가 구현 (secret key, 세션 쿠키, credentials: 'include')
 - **24.05.15** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-15.md) ${\textsf{\color{yellowgreen}기타}}$ ) 이력서, 포트폴리오 작성
 - **24.05.14** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-14.md) ${\textsf{\color{orange}알고리즘}}$ ) 알고리즘 BFS 문제풀이
 - **24.05.13** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-13.md) ${\textsf{\color{orange}알고리즘}}$ ) 알고리즘 DP 개념 정리, 커뮤니티 프로젝트 리팩토링 후 문제상황 수정 반영
+
+---
 
 ### 🍓 [5월 2주차, 6주차] : 커뮤니티 프로젝트 react
 
