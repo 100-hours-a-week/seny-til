@@ -2,7 +2,8 @@
 
 ### 🍓 [5월 3주차, 7주차] : Java
 
-- **24.05.18** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-18.md) ${\textsf{\color{orange}알고리즘}}$ ) 자바 과제 6주차 진행, 알고리즘 DP 문제풀이, 해싱 개념정리
+- **24.05.22** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-22.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 자바 과제 6주차 진행, 자바 수업 정리
+- **24.05.21** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-21.md) ${\textsf{\color{orange}알고리즘}}$ ) 자바 과제 6주차 진행, 알고리즘 DP 문제풀이, 해싱 개념정리
 
 ---
 
