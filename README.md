@@ -1,6 +1,6 @@
 ## ✏️ Today I Learned ( seny-til in KCS )
 
-### 🍓 [5월 3주차, 7주차] : Java CLI 구현
+### 🍓 [5월 4주차, 8주차] : Java CLI 구현
 
 - **24.05.26** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-26.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 6주차 과제 Java CLI 구현 및 README.md 작성
 - **24.05.24** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-24.md) ${\textsf{\color{#ff69b4}딥다이브}}$ ) Java 생명주기 (New, Runnable, Wait, Block, Terminated)
