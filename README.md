@@ -1,5 +1,16 @@
 ## ✏️ Today I Learned ( seny-til in KCS )
 
+### 🍓 [5월 5주차, 9주차] : Java CLI 비동기 구현 + SQL
+
+- **24.06.02** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-31.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 7주차 과제 완료 (은행 점검 스레드, 결제 스레드 구현 및 결제 유효시간 10초 제한 루프 추가 구현)
+- **24.05.31** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-31.md) ${\textsf{\color{salmon}회고}}$ ) 1차 스터디 최종 회고 Day , 딥다이브 (서브쿼리 정의와 장단점)
+- **24.05.30** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-30.md) ${\textsf{\color{salmon}회고}}$ ) 팀별 회고 (개인 회고, 팀 1차 회고)
+- **24.05.29** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-29.md) ${\textsf{\color{#2e8b57}개념}}$ ) SQL, 스키마, 테이블
+- **24.05.28** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-22.md) ${\textsf{\color{orange}알고리즘}}$ ) 알고리즘 다익스트라 개념정리, 문풀
+- **24.05.27** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-27.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 자바 과제 7주차 진행, 비동기 로직 구현 중
+
+---
+
 ### 🍓 [5월 4주차, 8주차] : Java CLI 구현
 
 - **24.05.26** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-26.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 6주차 과제 Java CLI 구현 및 README.md 작성
