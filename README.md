@@ -4,12 +4,16 @@
 
 - **24.06.10** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-03.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 8주차 과제 3번 진행중, 새로운 팀 노션 제작 및 팀 스터디 방향성 토의
 
+---
+
 ### 🍓 [6월 1주차, 10주차] : 스프링 부트
 
 - **24.06.09** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-03.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 8주차 과제 2번, MySQL JOIN, TRANSACTION
 - **24.06.08** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-03.md) ${\textsf{\color{#2e8b57}개념}}$ ) 코테언어 변경 JS -> 파이썬, 파이썬 기초 문법 정리
 - **24.06.05** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-05.md) ${\textsf{\color{#BA55D3}네트워킹 파티}}$ ) 카카오 특강 - eddy, tasha
 - **24.06.03** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-03.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 8주차 과제 1번 erd
+
+---
 
 ### 🍓 [5월 5주차, 9주차] : Java CLI 비동기 구현 + SQL
 
