@@ -2,22 +2,22 @@
 
 ### 🍓 [6월 2주차, 11주차] : 스프링 부트
 
-- **24.06.10** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-03.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 8주차 과제 3번 진행중, 새로운 팀 노션 제작 및 팀 스터디 방향성 토의
+- **24.06.10** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Jun/2024-06-10.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 8주차 과제 3번 진행중, 새로운 팀 노션 제작 및 팀 스터디 방향성 토의
 
 ---
 
 ### 🍓 [6월 1주차, 10주차] : 스프링 부트
 
-- **24.06.09** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-03.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 8주차 과제 2번, MySQL JOIN, TRANSACTION
-- **24.06.08** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-03.md) ${\textsf{\color{#2e8b57}개념}}$ ) 코테언어 변경 JS -> 파이썬, 파이썬 기초 문법 정리
-- **24.06.05** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-05.md) ${\textsf{\color{#BA55D3}네트워킹 파티}}$ ) 카카오 특강 - eddy, tasha
-- **24.06.03** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-03.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 8주차 과제 1번 erd
+- **24.06.09** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Jun/2024-06-09.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 8주차 과제 2번, MySQL JOIN, TRANSACTION
+- **24.06.08** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Jun/2024-06-08.md) ${\textsf{\color{#2e8b57}개념}}$ ) 코테언어 변경 JS -> 파이썬, 파이썬 기초 문법 정리
+- **24.06.05** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Jun/2024-06-05.md) ${\textsf{\color{#BA55D3}네트워킹 파티}}$ ) 카카오 특강 - eddy, tasha
+- **24.06.03** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Jun/2024-06-03.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 8주차 과제 1번 erd
 
 ---
 
 ### 🍓 [5월 5주차, 9주차] : Java CLI 비동기 구현 + SQL
 
-- **24.06.02** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-02.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 7주차 과제 완료 (은행 점검 스레드, 결제 스레드 구현 및 결제 유효시간 10초 제한 루프 추가 구현)
+- **24.06.02** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Jun/2024-06-02.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 7주차 과제 완료 (은행 점검 스레드, 결제 스레드 구현 및 결제 유효시간 10초 제한 루프 추가 구현)
 - **24.05.31** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-31.md) ${\textsf{\color{salmon}회고}}$ ) 1차 스터디 최종 회고 Day , 딥다이브 (서브쿼리 정의와 장단점)
 - **24.05.30** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-30.md) ${\textsf{\color{salmon}회고}}$ ) 팀별 회고 (개인 회고, 팀 1차 회고)
 - **24.05.29** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-29.md) ${\textsf{\color{#2e8b57}개념}}$ ) SQL, 스키마, 테이블
