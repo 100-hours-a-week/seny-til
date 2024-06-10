@@ -1,8 +1,19 @@
 ## ✏️ Today I Learned ( seny-til in KCS )
 
+### 🍓 [6월 1주차, 10주차] : 스프링 부트
+
+- **24.06.10** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-03.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 8주차 과제 3번 진행중, 새로운 팀 노션 제작 및 팀 스터디 방향성 토의
+
+### 🍓 [6월 1주차, 10주차] : 스프링 부트
+
+- **24.06.09** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-03.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 8주차 과제 2번, MySQL JOIN, TRANSACTION
+- **24.06.08** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-03.md) ${\textsf{\color{#2e8b57}개념}}$ ) 코테언어 변경 JS -> 파이썬, 파이썬 기초 문법 정리
+- **24.06.05** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-05.md) ${\textsf{\color{#BA55D3}네트워킹 파티}}$ ) 카카오 특강 - eddy, tasha
+- **24.06.03** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-03.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 8주차 과제 1번 erd
+
 ### 🍓 [5월 5주차, 9주차] : Java CLI 비동기 구현 + SQL
 
-- **24.06.02** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-31.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 7주차 과제 완료 (은행 점검 스레드, 결제 스레드 구현 및 결제 유효시간 10초 제한 루프 추가 구현)
+- **24.06.02** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-06-02.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 7주차 과제 완료 (은행 점검 스레드, 결제 스레드 구현 및 결제 유효시간 10초 제한 루프 추가 구현)
 - **24.05.31** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-31.md) ${\textsf{\color{salmon}회고}}$ ) 1차 스터디 최종 회고 Day , 딥다이브 (서브쿼리 정의와 장단점)
 - **24.05.30** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-30.md) ${\textsf{\color{salmon}회고}}$ ) 팀별 회고 (개인 회고, 팀 1차 회고)
 - **24.05.29** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-29.md) ${\textsf{\color{#2e8b57}개념}}$ ) SQL, 스키마, 테이블
@@ -37,7 +48,7 @@
 - **24.05.12** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-12.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 3주차 과제 시작, 3주차 1,2 완료(미니퀘스트, es6+ 문법으로 커뮤니티 리팩토링)
 - **24.05.11** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-11.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 백서버 내 JSON, /images 내 파일들 .gitignore 추가하여 git 연동 제외, 2주차 과제3 완료 및 정리
 - **24.05.10** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-10.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 회원가입, 게시글 작성/수정/상세 페이지 이미지 연동 구현 및 비밀번호 암호화( bcrypt), 코드 리팩토링
-- **24.05.09** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-09.md) ${\textsf{\color{#BA55D3}특강}}$ ) multer-form 서버에 저장된 이미지 프론트에 연동, 포폴 특강
+- **24.05.09** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-09.md) ${\textsf{\color{#BA55D3}네트워킹 파티}}$ ) multer-form 서버에 저장된 이미지 프론트에 연동, 포폴 특강
 - **24.05.08** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-08.md) ${\textsf{\color{#2e8b57}개념}}$ ) React Hook, JS 동등비교, 커스텀 훅, 고차 컴포넌트
 - **24.05.07** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-07.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) multer-form 폼제출을 통해 be 서버 내 폴더에 정적파일 저장하기
 - **24.05.06** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/May/2024-05-06.md) ${\textsf{\color{orange}알고리즘}}$ ) 그래프와 bfs, dfs
