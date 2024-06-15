@@ -2,6 +2,7 @@
 
 ### 🍓 [6월 2주차, 11주차] : 스프링 부트
 
+- **24.06.15** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Jun/2024-06-15.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 8주차 3번, 알고리즘 풀이
 - **24.06.14** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Jun/2024-06-14.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 딥다이브 - @Transactional, '머라카노' 사이드 플젝 시작 + 기획상세 및 디자인
 - **24.06.12** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Jun/2024-06-12.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 8주차 과제 3번 진행중 - 회원가입, 로그인 연동 성공, 알고리즘 파이썬 기초 40문항, SQL 1문항, JS 1레벨 1문항 풀이
 - **24.06.11** - ( [🔗](https://github.com/100-hours-a-week/seny-til/blob/main/Jun/2024-06-11.md) ${\textsf{\color{#1e90ff}프로젝트}}$ ) 8주차 과제 3번 진행중, 알고리즘 풀이
